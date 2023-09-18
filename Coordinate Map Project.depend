@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1634707062 source:c:\users\van_o\documents\cs 2337 project 2\src\linkedlist.cpp
+	"LinkedList.h"
+	"Node.h"
+	<iostream>
+
+1634707062 c:\users\van_o\documents\cs 2337 project 2\include\linkedlist.h
+	<iostream>
+	"Node.h"
+
+1633846795 source:c:\users\van_o\documents\cs 2337 project 2\src\node.cpp
+
+1634707062 c:\users\van_o\documents\cs 2337 project 2\include\node.h
+	"Driver.h"
+
+1634707062 source:c:\users\van_o\documents\cs 2337 project 2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+	"Driver.h"
+	"Node.h"
+	"LinkedList.h"
+
+1634707062 c:\users\van_o\documents\cs 2337 project 2\include\driver.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1634707062 source:c:\users\van_o\documents\cs 2337 project 2\src\driver.cpp
+	"Driver.h"
+	<string>
+	<sstream>
+	<algorithm>
+	<vector>
+
